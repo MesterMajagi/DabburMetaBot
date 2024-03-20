@@ -1,0 +1,31 @@
+{
+  "name": "testv13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts",
+    "startupscript": "ts-node index.ts",
+    "pm2": "NODE_ENV=production pm2 start index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chart.js": "^3.8.2",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "googleapis": "^105.0.0",
+    "mongoose": "^6.4.6",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19",
+    "pm2": "^5.2.0",
+    "sequelize": "^6.21.3",
+    "wokcommands": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.21"
+  }
+}
