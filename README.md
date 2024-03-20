@@ -1,8 +1,6 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_DabburZann__Discord_Bot__0"></a>⚒️ DabburZann - Discord Bot ⚒️</h1>
 <h4 class="code-line" data-line-start=1 data-line-end=2 ><a id="_Den_bedste_discord_bot_for_FiveM_Metagaming__1"></a><em>Den bedste discord bot for FiveM Metagaming</em></h4>
-<p class="has-line-data" data-line-start="3" data-line-end="6"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a><br>
-<strong><strong><em>DISCLAIMER</em></strong></strong><br>
-Denne bot bruges ikke af DabburZann på NightLifeRP, men er kun til testing og POC.</p>
+<p class="has-line-data" data-line-start="3" data-line-end="6"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a><br></p>
 <hr>
 <h2 class="code-line" data-line-start=8 data-line-end=9 ><a id="Features_8"></a>Features</h2>
 <ul>
